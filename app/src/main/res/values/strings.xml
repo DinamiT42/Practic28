@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PR28 nd</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="svipe">svipe</string>
+    <string name="todo1">TODO</string>
+    <string name="button1">button1</string>
+    <string name="button_activate">Button Activate</string>
+</resources>
